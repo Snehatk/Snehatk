@@ -36,7 +36,7 @@ Data preprocessing, Machine Learning basics, Problem Solving, OOP, DBMS
 
 ## Links
 - 📧 Email: tksneha7@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK  
+- 🔗 LinkedIn: https://www.linkedin.com/in/snehatk12?utm_source=share_via&utm_content=profile&utm_medium=member_android 
 
 <a href="https://linkedin.com/in/YOUR-LINK" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
